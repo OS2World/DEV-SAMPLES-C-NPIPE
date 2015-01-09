@@ -1,0 +1,1 @@
+#define PIPENAME "\\PIPE\\isjpipe"
